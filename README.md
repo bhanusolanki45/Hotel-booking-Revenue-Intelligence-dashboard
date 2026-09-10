@@ -1,7 +1,7 @@
-# OYO-hotel-booking-dashboard
+# Hotel Booking & Revenue Intelligence Dashboard
 Interactive executive dashboard for OYO Hotels — 119K booking records, 12 charts, built with Chart.js
 
-# OYO Hotels — Executive Dashboard
+# Hotels — Executive Dashboard
 
 An interactive single-page executive dashboard built for CEO/CFO-level analysis of OYO hotel booking data.
 
@@ -29,9 +29,3 @@ An interactive single-page executive dashboard built for CEO/CFO-level analysis 
 - Non-refundable deposit bookings cancel at **99.4%** (administrative cancellations)
 - Guests with 5+ special requests cancel at only **5%** vs **47.7%** with zero requests
 - Portugal (PRT) contributes **40.7%** of all bookings with a **56.6%** cancel rate
-
-## 📁 Files
-| File | Description |
-|------|-------------|
-| `oyo_dashboard.html` | Main dashboard (open in any browser) |
-| `hotel_bookings.csv` | Raw dataset |
